@@ -1,0 +1,5 @@
+nota1 = float(input('Nota de Matemática: '))
+nota2 = float(input('Nota de Português: '))
+print('Sua nota em Matématica é de: {:.1f}'.format(nota1))
+print('Sua nota em Português é de: {:.1f}'.format(nota2))
+print('A média entre as duas é de: {:.1f}'.format((nota1 + nota2) / 2))
