@@ -1,4 +1,4 @@
-#Criar um D20 em Python
+#Criando um D20 basico // Creating a basic D20
 from random import randint
 from time import sleep
 
